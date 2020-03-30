@@ -10,11 +10,15 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "react": "16.11.0",
-    "react-native": "0.62.0",
     "axios": "latest",
     "prop-types": "latest",
+    "react": "16.11.0",
+    "react-native": "0.62.0",
     "react-native-gesture-handler": "latest",
+    "react-native-i18n": "^2.0.15",
+    "react-native-qrcode-svg": "^6.0.3",
+    "react-native-svg": "^12.0.3",
+    "react-native-vector-icons": "^6.6.0",
     "react-navigation": "latest",
     "reactotron-react-native": "latest",
     "styled-components": "latest"
